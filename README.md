@@ -8,3 +8,6 @@
 ### In order to use a negative value, you will need to first type the number, and then select the "(-)" button.
 ### After every selected operation the current value is stored in a temporary variable and the text field is cleared.
 ### The used font is  "Ink Free", and the dimensions are taken from the Internet.
+
+## To improve
+### Allow user input via keyboard
